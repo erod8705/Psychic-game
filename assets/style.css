@@ -1,0 +1,133 @@
+@media screen and (max-width: 640px) {
+	
+			.body{
+				width: 100%;
+
+			}
+
+			.aboutMe p{
+				width: 100%
+			}
+
+			.connectwithMe{
+				width: 100%;
+			}
+
+			.portfolio{
+				width: 100%;
+				height: 950px;
+			}
+
+			.portfolio-boxes{
+				width: 100%;
+			}
+	}
+
+	@media screen and (max-width: 768px) {
+	
+			.body{
+				width: 100%;
+
+			}
+
+			.aboutMe p{
+				width: 100%
+			}
+
+			h2{
+				width: 100%
+			}
+
+			.connectwithMe{
+				width: 100%;
+			}
+
+				.portfolio{
+				width: 100%;
+				height: 950px;
+			}
+
+			.portfolio-boxes{
+				width: 100%;
+			}
+	}
+
+	@media screen and (max-width: 980px) {
+	
+			.body{
+				width: 100%;
+
+			}
+
+			.aboutMe p{
+				width: 50%
+			}
+
+			.connectwithMe{
+				width: 50%;
+			}
+
+				.portfolio{
+				width: 50%;
+				height: 950px;
+			}
+
+			.portfolio-boxes{
+				width: 50%;
+			}
+	}
+
+p{font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif; font color: #777777;}
+
+.headerlinks a {float: right; font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif; 
+padding: 10px; text-decoration: none; margin-right: 50px; margin-top: 10px;}
+
+
+h1{float: left; color: white; background-color: #4aaaa5; padding: 20px; 
+
+font-size: 30px; font-family: 'Georgia', Times, 'Times New Roman', serif; font-weight: bold;}
+
+header{overflow: auto; background-color: #ffffff; margin-left: 50px;}
+
+.aboutMe{float: left; background-color: white; width: 650px; 
+	padding: 20px; margin: 50px; border: 1px solid #dddddd}
+
+.portfolio{float: left; background-color: white; width: 650px; height: 750px;
+	padding: 20px; margin: 50px; border: 1px solid #dddddd}
+
+.portfolio-boxes{float: left;}
+
+.connectwithMe{float: right; width: 270px; padding: 20px; background-color: white; 
+	margin: 50px; border: 1px solid #dddddd}
+
+.icons{padding: 10px;}
+
+.contactBox{width: 650px; background-color: white;}
+
+.formContainer{width: 650px; background-color: white; margin: 50px;
+	padding: 20px; font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;}
+
+h3,h2{font-family: 'Georgia', Times, Times New Roman, serif; font-size: 20px; 
+color: #4aaaa5; font-weight: bold; border-bottom: 2px solid #dddddd;
+ margin-bottom: 20px; padding-bottom: 20px;}
+
+.img-container{position: relative; height: 190px; width: 190px; float: left;}
+
+.img-banner {background-color: #4aaaa5; text-align: center; padding-top: 10px; padding-bottom: 10px;
+	z-index: 1; position: relative;	top: -70px; height: 15px; width: 150px; margin-left: 20px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;}
+
+.img-banner a {text-decoration: none;}
+
+footer{
+	background: #666;
+	color: #fff;
+	padding: 30px 0;
+	clear: both;
+	border-top: 8px solid #4aaaa5;
+	color: #ccc;
+	font-size: 12px;
+	text-align: center;
+}
+
+
